@@ -1,5 +1,6 @@
 import Vue from 'vue'
 import App from './App.vue'
+let a = 100
 
 Vue.config.productionTip = false
 
